@@ -7,5 +7,4 @@ The parallax effect is a visual phenomenon that occurs when objects in the foreg
 
 Follow the link 👇
 
-
-https://imagebazar.netlify.app/
+https://iridescent-puffpuff-e64015.netlify.app/
